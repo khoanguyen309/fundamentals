@@ -15,3 +15,7 @@ source/Appccelerate.sln.DotSettings
 source/packages/*
 logs/ripple.log
 Specs/
+source/.vs/Appccelerate.Fundamentals/v15/Server/sqlite3/storage.ide-wal
+source/.vs/Appccelerate.Fundamentals/v15/Server/sqlite3/storage.ide-shm
+source/.vs/Appccelerate.Fundamentals/v15/Server/sqlite3/db.lock
+source/.vs/Appccelerate.Fundamentals/v15/Server/sqlite3/storage.ide
