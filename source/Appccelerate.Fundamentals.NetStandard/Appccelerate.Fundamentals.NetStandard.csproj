@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Appccelerate.Fundamentals</AssemblyName>
-    <RootNamespace>Appccelerate.Fundamentals</RootNamespace>
+    <RootNamespace>Appccelerate</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
